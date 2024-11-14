@@ -1,1 +1,3 @@
 how to generate token on github platform
+modify with visual code
+push with vscode
